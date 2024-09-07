@@ -20,6 +20,10 @@ public class Main {
         workerBee2.collectHoney();
         System.out.println(workerBee2);
 
+        Bee workerBee3 = new Bee("Jake",1,"Worker");
+        workerBee2.collectHoney();
+        System.out.println(workerBee2);
+
         
     }
 }
